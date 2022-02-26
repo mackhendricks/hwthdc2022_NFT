@@ -1,0 +1,22 @@
+"name": "Nature Boy",
+  "image": "ipfs://QmaKLJjisDYBQSaDsi4sjoh694a41ScquoWopVAhRrHTDL",
+  "description": "We are regularly challenged by economic, societal, and political changes beyond our control.  This is an image about survival, growth, and resurrection in the face of adversity",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Edel Rodriguez"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Border",
+      "value": "White"
+    },
+    {
+      "trait_type": "Drop",
+      "value": "Inspiration"
+    }
+  ]
+}
